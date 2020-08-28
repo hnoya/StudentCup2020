@@ -1,4 +1,4 @@
-# StudentCup2020 2nd(?) solution
+# StudentCup2020 2nd(?) Place solution
 ## はじめに
 - https://signate.jp/competitions/281 の解法です
 - 開催者、参加者及び関係者各位に感謝します
