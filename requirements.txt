@@ -1,0 +1,12 @@
+# Google Colabを使いました.
+# 以下は使用した主要なライブラリのバージョンです.
+numpy == 1.18.5
+pandas == 1.0.5
+sklearn == 0.22.2.post1
+lightgbm == 2.2.3
+catboost == 0.24.1
+torch == 1.6.0+cu101
+transformers == 3.0.2
+nlp == 0.4.0
+googletrans == 3.0.0
+pulp == 2.3
