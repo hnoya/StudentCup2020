@@ -13,7 +13,7 @@
 - test weightを使いました
 
 ## ディレクトリの構成
-.
+. <br>
 ├─── data（学習・予測するデータ、最終的に予測したデータ） <br>
 │   └─ train.csv, test.csv <br>
 ├─── models（学習したモデル） <br>
